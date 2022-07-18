@@ -127,74 +127,76 @@ left: 733px;
 top: 252px;
 border-radius: 0px;
 }
+
 .background{
-display:flex;
-width: 1440px;
-height: 730px;
-left: 0px;
-top: 829px;
-
-background: #d7d7d7;
-
-margin:0px;
-padding: 0px;
-}
-#cavalo{
-  position:absolute;
-  height: 270px;
-  width: 288px;
-  left: 156px;
-  top: 938px;
-  border-radius: 0px;
-}
-p3{
-  position: absolute;
-  width: 344px;
-  height: 29px;
-  left: 128px;
-  top: 1253px;
+  display:flex;
+  width: 1440px;
+  height: 730px;
+  left: 0px;
+  top: 829px;
   
-  font-family: 'Ubuntu';
-  font-style: normal;
-  font-weight: 700;
-  font-size: 25px;
-  line-height: 29px;
-  /* identical to box height */
+  background: #d7d7d7;
   
-  text-align: center;
+  margin:0px;
+  padding: 0px;
+  }
+  #cavalo{
+    position:absolute;
+    height: 270px;
+    width: 288px;
+    left: 156px;
+    top: 938px;
+    border-radius: 0px;
+  }
+  p3{
+    position: absolute;
+    width: 344px;
+    height: 29px;
+    left: 128px;
+    top: 1253px;
+    
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 29px;
+    /* identical to box height */
+    
+    text-align: center;
+    
+    color: #FF4081;
+  }
+  p4{
+    position: absolute;
+    width: 293px;
+    height: 60px;
+    left: 154px;
+    top: 1305px;
+    
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 17px;
+    line-height: 20px;
+    text-align: center;
+    
+    color: #858383;
+  }
+  p5{
+    position:relative;
+    width: 216px;
+    height: 30.27px;
+    left: 182px;
+    top: 604px;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+    color: #ffffff;
+    background: #FF4081;
+    border-radius: 62px;
+    box-sizing: border-box;
+  }
   
-  color: #FF4081;
-}
-p4{
-  position: absolute;
-  width: 293px;
-  height: 60px;
-  left: 154px;
-  top: 1305px;
-  
-  font-family: 'Ubuntu';
-  font-style: normal;
-  font-weight: 300;
-  font-size: 17px;
-  line-height: 20px;
-  text-align: center;
-  
-  color: #858383;
-}
-p5{
-  position:relative;
-  width: 216px;
-  height: 30.27px;
-  left: 182px;
-  top: 604px;
-  font-family: 'Ubuntu';
-  font-style: normal;
-  font-weight: 400;
-  font-size: 20px;
-  line-height: 23px;
-  text-align: center;
-  color: #ffffff;
-  background: #FF4081;
-  border-radius: 62px;
-  box-sizing: border-box;
-}
