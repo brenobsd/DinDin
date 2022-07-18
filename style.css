@@ -27,7 +27,6 @@ body {
 
 .header > .nav > li {
   padding: 0px 10px;
-
   font-style: normal;
   font-weight: 700;
   font-size: 20px;
@@ -199,4 +198,66 @@ border-radius: 0px;
     border-radius: 62px;
     box-sizing: border-box;
   }
-  
+#regando{
+  position: absolute;
+left: 63.12%;
+right: 40.35%;
+top: 89.34%;
+bottom: 62.21%;
+height: 270px;
+width: 238px;
+left: 621px;
+top: 938px;
+border-radius: 0px;
+}  
+p6{
+  position: absolute;
+width: 267px;
+height: 29px;
+left: 606px;
+top: 1251px;
+
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 29px;
+/* identical to box height */
+
+text-align: center;
+
+color: #FF4081;
+}
+p7{
+  position: absolute;
+width: 293px;
+height: 60px;
+left: 593px;
+top: 1303px;
+
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 300;
+font-size: 17px;
+line-height: 20px;
+text-align: center;
+}
+p8{
+  position: relative;
+  width: 216px;
+  height: 30.27px;
+  left: 420px;
+  top: 604px;
+
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 23px;
+text-align: center;
+
+color: #FFFFFF;
+background: #FF4081;
+border-radius: 62px;
+box-sizing: border-box;
+}
