@@ -41,6 +41,10 @@ a:link {
   text-decoration: none;
   color: #FDFDFD;
 }
+a:visited{
+  text-decoration: none;
+  color: #FDFDFD;
+}
 
 @media screen and (max-width: 660px) {
   .header {
