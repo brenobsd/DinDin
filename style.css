@@ -67,7 +67,7 @@ a:visited{
   }
 }
 
-p{  
+.educação{  
     position:absolute;
     width: 488px;
     height: 216px;
@@ -83,7 +83,7 @@ p{
     color: #FF4081;
     
 }
-p1{
+.texto{
   position: absolute;
   width: 462px;
   height: 62px;
@@ -99,7 +99,7 @@ p1{
   color: #555555;
   
 }
-p2{
+.quero{
   position: absolute;
   font-family: 'Ubuntu';
   font-style: normal;
@@ -118,7 +118,7 @@ p2{
 
 
 }
-.ilustra-banner{
+#ilustra-banner{
     position:absolute;
 background: #ffffff;
 height: 511px;
@@ -327,9 +327,11 @@ border-radius: 62px;
 box-sizing: border-box;
 }*
 .pessoas{
-  position: absolute;
   font-family: 'Nunito';
   font-style: normal;
+  color: #000000;
+  line-height: 25px;
+  font-size: 18px;
 }
 p12{
   position: absolute;
@@ -337,40 +339,115 @@ p12{
   height: 50px;
   left: 128px;
   top: 1678px;
-
-  font-family: 'Nunito', sans-serif;
-  font-style: normal;
   font-weight: 700;
   font-size: 37px;
   line-height: 50px;
-
   color: #009688;
   text-transform: uppercase;
 }
 
 #wally{
   position: absolute;
-  width: 84px;
-  height: 68px;
+  width: 76px;
+  height: 82px;
   left: 139px;
   top: 1818px;
 }
 p13{
   position: absolute;
+  width: 363px;
+  height: 70.27px;
+  left: 260px;
+  top: 1806px;
+  font-weight: 300;
+}
+p14{
+  position: absolute;
+  width: 76px;
+  height: 23.42px;
+  left: 260px;
+  top: 1886.58px; 
+  font-weight: 400;
+}
+#whoopi{
+ position: absolute;
+  width: 76px;
+  height: 82px;
+  left: 142px;
+  top: 2013px;
+  border-radius: 31px;
+}
+p15{
+  position: absolute;
+  width: 363px;
+  height: 73.65px;
+  left: 255px;
+  top: 1996px;
+  font-weight: 300;
+}
+p16{
+  position: absolute;
+width: 175px;
+height: 24.55px;
+left: 255px;
+top: 2080.45px;
+font-weight: 400;
+}
+
+#jaden{
+  position: absolute;
+  width: 81px;
+  height: 85px;
+  left: 719px;
+  top: 1811px;
+  
+}
+p17{
+  position: absolute;
 width: 363px;
 height: 70.27px;
-left: 260px;
+left: 852px;
 top: 1806px;
-
 font-family: 'Nunito';
 font-style: normal;
 font-weight: 300;
-font-size: 18px;
-line-height: 25px;
-
-color: #000000;
-
 }
-p14{
-
+p18{
+position: absolute;
+width: 128px;
+height: 23.42px;
+left: 852px;
+top: 1886.58px;
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+}
+#jane{
+position: absolute;
+width: 89px;
+height: 88px;
+left: 719px;
+top: 2015px;
+border-radius: 59px;
+}
+p19{
+position: absolute;
+width: 363px;
+height: 71.62px;
+left: 840px;
+top: 1997px;
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 300;
+color: #000000;
+}
+p20{
+position: absolute;
+width: 124px;
+height: 23.87px;
+left: 840px;
+top: 2079.13px;
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
 }
